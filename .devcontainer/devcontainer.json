@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Pilot license",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
